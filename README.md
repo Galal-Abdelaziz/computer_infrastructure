@@ -3,7 +3,7 @@
 
 Author: Galal Abdelaziz
 
-## This document is part of the Computer Infrastructure module for the 2024/2025 academic year at ATU.
+## This README document is part of the Computer Infrastructure module for the 2024/2025 academic year at ATU.
 
 ***
 
@@ -31,6 +31,14 @@ Author: Galal Abdelaziz
 ***
 
 ### Project:
+
+- [x] Task 1: Create a GitHub Actions Workflow.
+- [x] Task 2: Run Daily at 10am.
+- [x] Task 3: Use a Linux Virtual Machine.
+- [x] Task 4: Clone the Repository.
+- [x] Task 5: Execute the weather.sh Script.
+- [x] Task 6: Commit and Push Changes Back to the Repository.
+- [x] Task 7: Test the Workflow.
 
 ***
 
