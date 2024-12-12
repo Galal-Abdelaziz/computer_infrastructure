@@ -32,7 +32,6 @@ Author: Galal Abdelaziz
 - Bash (Unix shell) available [here](https://www.gnu.org/software/bash/).
 - Visual Studio Code available [here](https://code.visualstudio.com/).
 - Python 3.11.5 available [here](https://www.anaconda.com/download).
-- Markdown guide available [here](https://www.markdownguide.org/).
 
 ***
 
